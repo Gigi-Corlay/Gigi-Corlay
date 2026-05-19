@@ -1,40 +1,60 @@
-# 👋 Hi, I'm Gigi Corlay
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Gigi%20Corlay&fontSize=40&fontColor=c9d1d9&animation=fadeIn" />
+</p>
 
-🎓 Student at Holberton School  
-💻 Passionate about C programming, algorithms, and backend development  
-🚀 Currently learning software engineering and system programming  
+<p align="center">
+  🎓 Holberton School Student • 💻 C Developer • 🚀 Backend & Algorithms
+</p>
 
 ---
 
-## 🛠️ Skills
+# 👋 About Me
+
+I am a student at Holberton School, passionate about **C programming, algorithms, data structures, and system programming**.
+
+I enjoy building low-level projects and understanding how computers work under the hood.
+
+---
+
+# 🛠️ Skills
 
 - C programming
-- Data structures & algorithms
-- Linux / Unix
+- Linux / Unix system
+- Data Structures & Algorithms
+- Memory management
 - Git & GitHub
 - Problem solving
 
 ---
 
-## 📌 Projects
+# 📌 Featured Projects
 
-- Simple Shell — UNIX command-line interpreter
-- printf — custom implementation of printf
-- HBnB — Airbnb-like backend project
-- Linked Lists — data structures in C
-- Hash Tables — key-value storage system
+### Simple Shell
+UNIX command-line interpreter focused on process management, parsing, and system calls.
+
+### printf
+Reimplementation of the printf function using variadic functions and format parsing.
+
+### HBnB
+Airbnb-inspired backend project focusing on APIs, database, and architecture.
+
+### Linked Lists
+Implementation of linked list operations using pointers and dynamic memory.
+
+### Hash Tables
+Key-value storage system using hashing techniques.
 
 ---
 
-## 🎯 Goals
+# 🎯 Goals
 
 - Become a software engineer
 - Improve backend development skills
-- Build strong and clean projects
-- Master system programming in C
+- Master C and system programming
+- Build strong real-world projects
 
 ---
 
-## 📫 Contact
+# 📫 Contact
 
-GitHub: https://github.com/Gigi-Corlay
+- GitHub: https://github.com/Gigi-Corlay
