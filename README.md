@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Gigi Corlay
 
-<!--
-**Gigi-Corlay/Gigi-Corlay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student at Holberton School  
+💻 Passionate about C programming, algorithms, and backend development  
+🚀 Currently learning software engineering and system programming  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- C programming
+- Data structures & algorithms
+- Linux / Unix
+- Git & GitHub
+- Problem solving
+
+---
+
+## 📌 Projects
+
+- Simple Shell — UNIX command-line interpreter
+- printf — custom implementation of printf
+- HBnB — Airbnb-like backend project
+- Linked Lists — data structures in C
+- Hash Tables — key-value storage system
+
+---
+
+## 🎯 Goals
+
+- Become a software engineer
+- Improve backend development skills
+- Build strong and clean projects
+- Master system programming in C
+
+---
+
+## 📫 Contact
+
+GitHub: https://github.com/Gigi-Corlay
