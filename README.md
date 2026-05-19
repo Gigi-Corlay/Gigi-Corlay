@@ -50,6 +50,28 @@ I enjoy understanding how systems work at a low level and building efficient, st
 
 ---
 
+## 🛠️ Technical Stack
+
+[![My Skills](https://skillicons.dev/icons?i=c,python,linux,bash,git,github,mysql,sqlite,html,css,js,postman,vscode&theme=dark)](https://skillicons.dev)
+
+### Main focus
+- Backend development (C, Python)
+- REST API design and architecture
+- Data structures & algorithms
+- Memory management and system programming
+- SQL databases (SQLite, MySQL)
+- Git / GitHub workflows
+- Linux environment & Bash scripting
+
+### Currently improving
+- TypeScript
+- React
+- Node.js
+- Docker
+- PostgreSQL
+
+---
+
 ## 📌 Featured Projects
 
 ### Simple Shell
