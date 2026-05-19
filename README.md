@@ -144,7 +144,6 @@ J’aime comprendre le fonctionnement des systèmes bas niveau et construire des
 
 </details>
 
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:0d1117&height=110&section=footer" />
