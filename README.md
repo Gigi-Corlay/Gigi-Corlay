@@ -27,7 +27,7 @@
 
 <a id="english-version"></a>
 
-# Junior Software Developer | C • Python • Java script • html • css • Backend • Systems Programming
+# Junior Software Developer | C • Python • Java script • html • css • Backend • Frontend • Systems Programming
 
 Former retail manager, now a student at **Holberton School**, passionate about **software engineering, C programming, backend development and system programming**.
 
